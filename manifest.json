@@ -1,0 +1,10 @@
+{
+    "name": "Upcoming Concerts in Toronto",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "Cyril Kamal",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Up and coming Toronto Concerts"
+    }
+}
